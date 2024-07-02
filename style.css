@@ -179,6 +179,8 @@ body {
 
 .post__footer {
     display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
 }
 
 /* post ends (feed) */
