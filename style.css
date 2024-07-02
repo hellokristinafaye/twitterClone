@@ -17,7 +17,7 @@ body {
     cursor: pointer;
 }
 
-.sidebarOption, .material-symbols-outlined, .fa-twitter {
+.sidebarOption, .material-icons, .fa-twitter {
     padding: 20px;
     /* background-color: pink;
     color: red; */
@@ -182,6 +182,14 @@ body {
     justify-content: space-between;
     margin-top: 10px;
 }
+
+/* .material-icons {
+    font-size: 14px !important;
+    color: var(--twitter-color);
+    margin-right: 5px;
+} */
+
+/* UGH this is NOT a great stopping point but we need to get read for real work and feed Dash. SO what' happening is that I altered the spans to test what it meant to have them embedded, AND the Material classes are DIFFERENT in this iteration b/c I found the filled in ones. ugh.  So anyway, that's the situation and I don't quite have the next step planned but we gotta walk away now for life purposes.  boo.  */
 
 /* post ends (feed) */
 /* feed ends */
