@@ -91,3 +91,19 @@ body {
     border: 1px solid var(--twitter-background);
     padding: 15px 20px;
 }
+
+.feed__header h2 {
+    font-size: 20px;
+    font-weight: 800;
+}
+
+/* hard to tell if the next 2 rules work until there's enough content to scroll */
+
+.feed::-webkit-scrollbar {
+    display: none;
+}
+
+.feed {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+}
