@@ -111,9 +111,7 @@ body {
     scrollbar-width: none;
 }
 
-/* feed ends */
-
-/* tweetbox starts*/
+/* tweetbox starts (feed) */
 
 .tweetbox__input img {
     border-radius: 50%;
@@ -156,4 +154,11 @@ body {
     margin-left: auto;
 }
 
-/* tweetbox ends*/
+/* tweetbox ends (feed)*/
+
+/* post starts (feed) */
+
+
+
+/* post ends (feed) */
+/* feed ends */
