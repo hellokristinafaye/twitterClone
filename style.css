@@ -177,5 +177,9 @@ body {
     border-radius: 20px;
 }
 
+.post__footer {
+    display: flex;
+}
+
 /* post ends (feed) */
 /* feed ends */
