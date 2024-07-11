@@ -242,7 +242,7 @@ body {
 .widgets__input input {
     border: none;
     background-color: var(--twitter-background);
-    
+    outline: none;
 }
 
 /* widget ends */
