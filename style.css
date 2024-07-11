@@ -217,8 +217,16 @@ body {
 
 .post__avatar {
     padding: 20px;
-    
+
 }
 
 /* post ends (feed) */
 /* feed ends */
+
+/* widget starts */
+
+.widgets {
+    flex: .3;
+}
+
+/* widget ends */
