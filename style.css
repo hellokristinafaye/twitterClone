@@ -245,4 +245,8 @@ body {
     outline: none;
 }
 
+.widgets__searchIcon {
+    color: gray;
+}
+
 /* widget ends */
